@@ -4,8 +4,7 @@
 **Computer Science Student**
 
 ## Work Experience
-- Personal and academic projects focused on software engineering, data structures, and web development.
-- Passionate about building impactful, real-world software applications.
+- Island Harvest Food Bank
 
 ## Projects
 - **[EndGame](https://github.com/d-jason32/chess_project)**: A web-based chess game built with TypeScript and React, featuring real-time gameplay and AI integration.
